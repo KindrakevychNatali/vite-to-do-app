@@ -1,6 +1,4 @@
-Sure! Here's a `README.md` file for your To-Do application using Vite:
 
----
 
 # Vite To-Do App
 
@@ -93,6 +91,5 @@ npm run preview
 
 This will start a local server to preview the production build of the application.
 
----
 
-Feel free to customize this `README.md` file as per your requirements!
+
